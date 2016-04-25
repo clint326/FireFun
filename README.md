@@ -1,2 +1,2 @@
-# firefun
-The sequel to Firebase_Fun
+# Fire Fun
+The sequel to Firebase Fun!
